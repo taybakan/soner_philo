@@ -1,0 +1,17 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": true,
+      "externalConsole": false,
+      "cwd": "/Users/mkorucu/Desktop/intra-uuid-02fbe63f-a7a6-40eb-a70f-d551b30b038d-4574904-mkorucu/philo",
+      "program": "/Users/mkorucu/Desktop/intra-uuid-02fbe63f-a7a6-40eb-a70f-d551b30b038d-4574904-mkorucu/philo/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb"
+    }
+  ]
+}
